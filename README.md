@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on Experilabs [Pazarama](https://play.google.com/store/apps/details?id=tr.com.topkapidanismanlik.pazarama.app)
 
-- 🌱 I’m currently learning **Jetpack Compose|Kotlin Multiplatform Mobile(KMM)|Android Modern Tools**
+- 🌱 I’m currently learning **Jetpack Compose| Kotlin Multiplatform Mobile(KMM)|Android Modern Tools**
 
-- 💬 Ask me about **Android development|OOP|Data Structures**
+- 💬 Ask me about **Android development | OOP| Data Structures**
 
 - 📫 How to reach me **mohamamd.ammar@gmail.com**
 
-- ⚡ Fun fact **I am passionate about nutrition and a healthy lifestyle.  Read more at: https://www.scienceofpeople.com/fun-facts-about-me/**
+- ⚡ Fun fact **I am passionate about nutrition and a healthy lifestyle.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
