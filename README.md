@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **CMP | KMP**
 
-- 💬 Ask me about **Android development | Jetpack Compose | KMP | Flutter | OOP | Data Structures**
+- 💬 Ask me about **Android development | Jetpack Compose | KMP | CMP  |  Flutter | OOP | Data Structures**
 
 - 📫 How to reach me **mohamamd.ammar@gmail.com**
 
