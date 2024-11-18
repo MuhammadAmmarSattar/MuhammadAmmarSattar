@@ -17,6 +17,19 @@
 - 📫 How to reach me **mohamamd.ammar@gmail.com**
 
 - ⚡ Fun fact **I am passionate about nutrition and a healthy lifestyle.
+  <h2 align="left">📱 Published Projects</h2>
+<ul>
+    <li>
+        <h3>Pazarama</h3>
+        <p>A banking e-commerce app providing a seamless shopping experience. Includes secure payment integration, a user-friendly interface, and multiple shopping categories. Features a robust B2B platform for businesses and has achieved over 5 million downloads on Google Play.</p>
+        <p><a href="https://play.google.com/store/apps/details?id=tr.com.topkapidanismanlik.pazarama.app" target="_blank">View on Google Play</a></p>
+    </li>
+    <li>
+    <h3>Folder Lock®</h3>
+    <p>A trusted data protection app designed to safeguard your personal files, photos, videos, documents, and more. Includes password-protection, secure cloud backup options (Dropbox, Google Drive, OneDrive), and a user-friendly interface. Trusted by millions, Folder Lock® has achieved over 10 million downloads on Google Play.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.newsoftwares.folderlock_v1&hl=pt_PT" target="_blank">View on Google Play</a></p>
+</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
