@@ -1,7 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/muhammad-ammar-685978130/)
 <h1 align="center">Hi 👋, I'm Muhammad Ammar</h1>
 <h3 align="center">A passionate frontend developer from Portugal, Currently living in Lisbon</h3>
-<center><img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></center>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadammarsattar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadammarsattar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarsattar" alt="muhammadammarsattar" /></a> </p>
