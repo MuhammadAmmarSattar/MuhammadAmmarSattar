@@ -8,12 +8,30 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadammarsattar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadammarsattar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarsattar" alt="muhammadammarsattar" /></a> </p>
+<h2 align="left">⚡ Skills & Expertise</h2>
+- **Android Native Development** (Java/Kotlin)
+- **Jetpack Compose & Kotlin Multiplatform (KMP)**
+- **Flutter (Dart)**
+- **Firebase** for backend services
+- **AWS** cloud integration
+- **SQL Databases** for data management
+- **REST APIs** integration
+- **Git** for version control
+- **CI/CD** for continuous integration and deployment
+- **Unit Testing & UI Testing** (Espresso, JUnit)
 
+<h3 align="left">What I Do</h3>
+- ⚡ Develop highly interactive and responsive mobile applications for Android using Native and Flutter.
+- ⚡ Work with **Kotlin Multiplatform (KMP)** to build cross-platform mobile applications.
+- ⚡ Integrate third-party services like **Firebase**, **AWS**, and other cloud-based APIs.
+- ⚡ Leverage **Jetpack Compose** for modern Android UI development.
+- ⚡ Create **Progressive Mobile Applications (PWA)** with Flutter and native Android stacks.
+- ⚡ Implement complex **UI** and **UX** features that provide seamless user experiences.
 - 🔭 I worked on the Banking e-commerce app at **Experilabs** – [Pazarama](https://play.google.com/store/apps/details?id=tr.com.topkapidanismanlik.pazarama.app)
 - 🌱 I’m currently learning **CMP | KMP**
 - 💬 Ask me about **Android development | Jetpack Compose | KMP | CMP  | Flutter | OOP | Data Structures**
 - 📫 How to reach me: **mohamamd.ammar@gmail.com**
-- ⚡ Fun fact: **I am passionate about nutrition and a healthy lifestyle.**
+- ⚡ Fun fact: **I believe the best mobile apps are like a healthy diet: they need the right mix of functionality, design, and performance to keep users engaged and coming back for more!**
 
 <h2 align="left">📱 Published Projects</h2>
 
