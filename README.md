@@ -73,9 +73,7 @@
   <a href="https://kotlinlang.org/lp/mobile/" target="_blank" rel="noreferrer"> 
     <img src="https://kotlinlang.org/assets/images/twitter-card/kmm.png" alt="Kotlin Multiplatform Mobile" width="40" height="40"/> 
   </a> 
-  <a href="https://www.jetbrains.com/compose/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Jetpack_Compose_Icon.svg" alt="Compose Multiplatform" width="40" height="40"/> 
-  </a> 
+
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
