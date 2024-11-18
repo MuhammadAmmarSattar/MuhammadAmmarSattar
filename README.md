@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarsattar" alt="muhammadammarsattar" /></a> </p>
 
-- 🔭 I’m currently working on Experilabs [Pazarama](https://play.google.com/store/apps/details?id=tr.com.topkapidanismanlik.pazarama.app)
+- 🔭 I worked on Banking e-commerce app at Experilabs [Pazarama](https://play.google.com/store/apps/details?id=tr.com.topkapidanismanlik.pazarama.app)
 
-- 🌱 I’m currently learning **Jetpack Compose| Kotlin Multiplatform Mobile(KMM)|Android Modern Tools**
+- 🌱 I’m currently learning **CMP | KMP**
 
 - 💬 Ask me about **Android development | Jetpack Compose | KMP | Flutter | OOP | Data Structures**
 
