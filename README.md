@@ -9,16 +9,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarsattar" alt="muhammadammarsattar" /></a> </p>
 <h2 align="left">⚡ Skills & Expertise</h2>
-- **Android Native Development** (Java/Kotlin)
+- **Android Native Development** (Java/Kotlin).
 - **Jetpack Compose & Kotlin Multiplatform (KMP)**
 - **Flutter (Dart)**
-- **Firebase** for backend services
-- **AWS** cloud integration
-- **SQL Databases** for data management
-- **REST APIs** integration
-- **Git** for version control
-- **CI/CD** for continuous integration and deployment
-- **Unit Testing & UI Testing** (Espresso, JUnit)
+- **Firebase** for backend services.
+- **AWS** cloud integration.
+- **SQL Databases** for data management.
+- **REST APIs** integration.
+- **Git** for version control.
+- **CI/CD** for continuous integration and deployment.
+- **Unit Testing & UI Testing** (Espresso, JUnit).
 
 <h3 align="left">What I Do</h3>
 - ⚡ Develop highly interactive and responsive mobile applications for Android using Native and Flutter.
