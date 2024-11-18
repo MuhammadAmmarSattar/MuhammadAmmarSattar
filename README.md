@@ -8,9 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadammarsattar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadammarsattar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarsattar" alt="muhammadammarsattar" /></a> </p>
-<h2 align="left">⚡ Skills & Expertise</h2>
+<h2 align="left">⚡ What I Do</h2>
 
-What I Do
 - ⚡ Develop highly interactive and responsive mobile applications for Android using Native and Flutter.  
 - ⚡ Work with **Kotlin Multiplatform (KMP)** to build cross-platform mobile applications.  
 - ⚡ Integrate third-party services like **Firebase**, **AWS**, and other cloud-based APIs.  
