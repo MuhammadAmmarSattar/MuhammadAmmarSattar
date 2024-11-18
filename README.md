@@ -17,10 +17,28 @@
 - ⚡ Create **Progressive Mobile Applications (PWA)** with Flutter and native Android stacks.  
 - ⚡ Implement complex **UI** and **UX** features that provide seamless user experiences. 
 
-- 🌱 I’m currently learning **CMP | KMP**
-- 💬 Ask me about **Android development | Jetpack Compose | KMP | CMP  | Flutter | OOP | Data Structures**
-- 📫 How to reach me: **mohamamd.ammar@gmail.com**
-- ⚡ Fun fact: **I believe the best mobile apps are like a healthy diet: they need the right mix of functionality, design, and performance to keep users engaged and coming back for more!**
+---
+
+### Learning
+🌱 I’m currently learning **CMP | KMP**  
+
+---
+
+### Ask Me About
+💬 Ask me about **Android development | Jetpack Compose | KMP | CMP | Flutter | OOP | Data Structures**  
+
+---
+
+### Contact
+📫 How to reach me: **mohamamd.ammar@gmail.com**  
+
+---
+
+### Fun Fact
+⚡ Fun fact: **I believe the best mobile apps are like a healthy diet: they need the right mix of functionality, design, and performance to keep users engaged and coming back for more!**  
+
+---
+
 
 <h2 align="left">📱 Published Projects</h2>
 
