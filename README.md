@@ -26,8 +26,48 @@
     </li>
     <li>
     <h3>Folder Lock®</h3>
-    <p>A trusted data protection app designed to safeguard your personal files, photos, videos, documents, and more. Includes password-protection, secure cloud backup options (Dropbox, Google Drive, OneDrive), and a user-friendly interface. Trusted by millions, Folder Lock® has achieved over 10 million downloads on Google Play.</p>
+    <p>A trusted data protection app designed to safeguard your personal files, photos, videos, documents, and more. Includes password protection, secure cloud backup options (Dropbox, Google Drive, OneDrive), and a user-friendly interface. Trusted by millions, Folder Lock® has achieved over 10 million downloads on Google Play.</p>
     <p><a href="https://play.google.com/store/apps/details?id=com.newsoftwares.folderlock_v1&hl=pt_PT" target="_blank">View on Google Play</a></p>
+</li>
+    <li>
+    <h3>Maximum Mobil</h3>
+    <p>Experience the convenience of managing your İş Bank cards and participating in exclusive campaigns with Maximum Mobil. The app offers secure online shopping, grocery purchases, fuel payments, transport card top-ups, and market transactions using digital codes. With over 5 million downloads and 3 to 4 million active users, Maximum Mobil is an essential tool for İş Bank customers.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.softtech.parakod&hl=pt_PT" target="_blank">View on Google Play</a></p>
+</li>
+    <li>
+    <h3>Vault - Hide Photos and Videos</h3>
+    <p>Securely hide your photos, videos, documents, and passwords with Vault. Featuring a disguised calculator login, anti-hack monitoring, and cloud backup for data safety, Vault ensures privacy and protection for your personal information.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.newsoftwares.folderlock_v1" target="_blank">View on Google Play</a></p>
+</li>
+    <li>
+    <h3>Secure Notes Lock</h3>
+    <p>Secure Notes Lock is a lockable notepad app that lets you password-protect private notes, to-do lists, memos, audio recordings, and more. You can customize your secure notes by adjusting the font size, color, and other settings. With over 100K downloads, it's a reliable app to keep your notes safe and secure.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.example.secure.notes" target="_blank">View on Google Play</a></p>
+</li> 
+    <li>
+    <h3>Photo Video Gallery Locker</h3>
+    <p>Photo Video Locker app secures your photos and videos with advanced privacy features, ensuring your personal data remains safe. It offers cloud backup and a user-friendly interface, making it nearly impossible for others to access your media. With over 1 million downloads, it's a trusted app for keeping your media safe.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.example.photovideolocker" target="_blank">View on Google Play</a></p>
+</li>
+    <li>
+    <h3>DanceBUG</h3>
+    <p>DanceBUG is your go-to app for securely viewing your dance competition and recital videos and photos. Get live updates, event schedules, maps, and notifications for upcoming routines. With over 100K downloads, it's the best app for dancers to stay connected and enjoy their performances anytime, anywhere.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.example.dancebug" target="_blank">View on Google Play</a></p>
+</li>
+<li>
+    <h3>Dubai Culture</h3>
+    <p>Explore Dubai’s key attractions, events, and artefacts with the Dubai Culture app. Discover locations in panorama, map, or iBeacon views, and plan your visit by favouriting attractions to share with others. Get detailed information including maps, descriptions, galleries, and more. With over 5K downloads, it enhances your cultural experience in Dubai.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.dubaiculture&hl=en" target="_blank">View on Google Play</a></p>
+</li>
+    <li>
+    <h3>Izy Sosyal - Anonymous Chat</h3>
+    <p>Fed up with the monotony of social media? Discover Izy Social! Here, there are no masks, no filters—just you and your genuine thoughts. Izy Social is all about real conversations, where what you say matters more than who you are. Embrace the boldest way to be yourself with anonymous chats.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.project.izysocial&hl=en" target="_blank">View on Google Play</a></p>
+</li>
+<li>
+    <h3>Chase Social Music</h3>
+    <p>Connect your Spotify account with Chase Social Music and enjoy real-time conversations with people who share your musical taste. Activate Spotify Mode to play your favourite songs and get matched with others listening to the same track. Discover new styles and connect through the power of music.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.project.chaseapp&hl=en" target="_blank">View on Google Play</a></p>
 </li>
 </ul>
 
