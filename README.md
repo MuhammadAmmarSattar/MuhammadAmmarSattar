@@ -128,9 +128,6 @@
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
-  <a href="https://kotlinlang.org/lp/mobile/" target="_blank" rel="noreferrer"> 
-    <img src="https://kotlinlang.org/assets/images/twitter-card/kmm.png" alt="Kotlin Multiplatform Mobile" width="40" height="40"/> 
-  </a> 
 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
