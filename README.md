@@ -17,6 +17,8 @@
 
 <h2 align="left">📱 Published Projects</h2>
 
+<h2 align="left">📱 Published Projects</h2>
+
 - **[Pazarama](https://play.google.com/store/apps/details?id=tr.com.topkapidanismanlik.pazarama.app)**  
   A banking e-commerce app offering a seamless shopping experience, with secure payment integration and a user-friendly interface. It has over **5 million downloads**.
 
@@ -49,6 +51,7 @@
 
 - **[App Lock & Gallery](https://play.google.com/store/apps/details?id=com.newsoftwares.applockandgalleryvault&hl=en)**  
   Protect your apps with secure password methods and anti-hack features. Trusted by over **1 million users**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
