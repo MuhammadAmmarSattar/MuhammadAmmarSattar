@@ -9,6 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarsattar" alt="muhammadammarsattar" /></a> </p>
 <h2 align="left">⚡ Skills & Expertise</h2>
+
 What I Do
 - ⚡ Develop highly interactive and responsive mobile applications for Android using Native and Flutter.  
 - ⚡ Work with **Kotlin Multiplatform (KMP)** to build cross-platform mobile applications.  
@@ -17,14 +18,6 @@ What I Do
 - ⚡ Create **Progressive Mobile Applications (PWA)** with Flutter and native Android stacks.  
 - ⚡ Implement complex **UI** and **UX** features that provide seamless user experiences. 
 
-<h3 align="left">What I Do</h3>
-- ⚡ Develop highly interactive and responsive mobile applications for Android using Native and Flutter.
-- ⚡ Work with **Kotlin Multiplatform (KMP)** to build cross-platform mobile applications.
-- ⚡ Integrate third-party services like **Firebase**, **AWS**, and other cloud-based APIs.
-- ⚡ Leverage **Jetpack Compose** for modern Android UI development.
-- ⚡ Create **Progressive Mobile Applications (PWA)** with Flutter and native Android stacks.
-- ⚡ Implement complex **UI** and **UX** features that provide seamless user experiences.
-- 🔭 I worked on the Banking e-commerce app at **Experilabs** – [Pazarama](https://play.google.com/store/apps/details?id=tr.com.topkapidanismanlik.pazarama.app)
 - 🌱 I’m currently learning **CMP | KMP**
 - 💬 Ask me about **Android development | Jetpack Compose | KMP | CMP  | Flutter | OOP | Data Structures**
 - 📫 How to reach me: **mohamamd.ammar@gmail.com**
