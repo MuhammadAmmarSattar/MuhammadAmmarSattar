@@ -69,6 +69,12 @@
     <p>Connect your Spotify account with Chase Social Music and enjoy real-time conversations with people who share your musical taste. Activate Spotify Mode to play your favourite songs and get matched with others listening to the same track. Discover new styles and connect through the power of music.</p>
     <p><a href="https://play.google.com/store/apps/details?id=com.project.chaseapp&hl=en" target="_blank">View on Google Play</a></p>
 </li>
+<li>
+    <h3>App Lock & Gallery</h3>
+    <p>App Lock lets you protect your important apps like Contacts, Gmail, Facebook, and more with state-of-the-art security methods. With anti-hack features, it captures a selfie of anyone trying to break into your apps. Keep your privacy safe with App Lock & Gallery, trusted by over 1 million users.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.newsoftwares.applockandgalleryvault&hl=en" target="_blank">View on Google Play</a></p>
+</li>
+    
 </ul>
 
 <h3 align="left">Connect with me:</h3>
