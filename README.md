@@ -60,7 +60,7 @@
 - **[Photo Video Gallery Locker](https://play.google.com/store/apps/details?id=com.example.photovideolocker)**  
   A secure app for locking photos and videos with cloud backup and advanced security features. Trusted by over **1 million downloads**.
   
-- **[Zido](https://play.google.com/store/apps/details?id=com.volive.zidoapp.zidoapp))**  
+- **[Zido](https://play.google.com/store/apps/details?id=com.volive.zidoapp.zidoapp)**  
    Zido is a digital platform connecting buyers and sellers through a robust system to ease an auction for both parties. Whether it's selling or buying, we aim to make it an easy and pleasurable experience for our users. Trusted by over **5k downloads**.
 
 - **[DanceBUG](https://play.google.com/store/apps/details?id=com.example.dancebug)**  
