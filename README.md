@@ -59,6 +59,9 @@
 
 - **[Photo Video Gallery Locker](https://play.google.com/store/apps/details?id=com.example.photovideolocker)**  
   A secure app for locking photos and videos with cloud backup and advanced security features. Trusted by over **1 million downloads**.
+  
+- **[Zido]([https://play.google.com/store/apps/details?id=com.example.photovideolocker](https://play.google.com/store/apps/details?id=com.volive.zidoapp.zidoapp))**  
+  A secure app for locking photos and videos with cloud backup and advanced security features. Trusted by over **1 million downloads**.
 
 - **[DanceBUG](https://play.google.com/store/apps/details?id=com.example.dancebug)**  
   A private access app to view dance competition and recital videos/photos, live updates, and event schedules. Over **100K downloads**.
@@ -70,7 +73,7 @@
   A social app with real conversations and anonymous chatting. No masks, no filters—just you and your thoughts.
 
 - **[Chase Social Music](https://play.google.com/store/apps/details?id=com.project.chaseapp&hl=en)**  
-  Connect with your Spotify account to share music and enjoy real-time conversations with others listening to the same track.
+  Zido is a digital platform connecting buyers and sellers through a robust system to ease an auction for both parties. Whether it's selling or buying, we aim to make it an easy and pleasurable experience for our users.
 
 - **[App Lock & Gallery](https://play.google.com/store/apps/details?id=com.newsoftwares.applockandgalleryvault&hl=en)**  
   Protect your apps with secure password methods and anti-hack features. Trusted by over **1 million users**.
